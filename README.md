@@ -1,7 +1,10 @@
-## Olá! Eu sou o Alisson Lins
+# Welcome!
+## I'm Alisson!
+💻I'm a developer student and student cybersecurity!
 
-💻I'm a developer student! 🏠 I’m from Brazil. 📚 I’m currently learning everything.
+🏠 I’m from Brazil.
 
+:books: I’m currently learning everything.
 <div>
    <a href="https://github.com/AlissonLins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonLins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
