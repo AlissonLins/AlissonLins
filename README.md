@@ -5,6 +5,8 @@
 🏠 I’m from Brazil.
 
 :books: I’m currently learning everything.
+
+📚 I study English and other languages.
 <div>
    <a href="https://github.com/AlissonLins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonLins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
