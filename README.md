@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Alisson Lins
 
-💻I'm a developer student!
-🏠 I’m from Brazil.
-📚 I’m currently learning everything.
+💻I'm a developer student! 🏠 I’m from Brazil. 📚 I’m currently learning everything.
 
 <div>
    <a href="https://github.com/AlissonLins">
