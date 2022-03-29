@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Alisson Lins
 
-- 📽 Atualmente estou projetando um sistema para ajudar pessoas com deficiência auditiva.
-- 📚 Aprimorando meu conhecimento com python para aprender novas linguagem.
+💻I'm a developer student!
+🏠 I’m from Brazil.
+📚 I’m currently learning everything.
 
 <div>
    <a href="https://github.com/AlissonLins">
