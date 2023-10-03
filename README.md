@@ -15,10 +15,10 @@ Estou me desenvolvendo em Front-end mas gosto também do Back-end, sempre gostei
 [![Python](https://img.shields.io/badge/PYTHON-005C84?style=for-the-badge&logo=Python&logoColor=white)]()
 [![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
    
  ### Tecnologias Que Desejo Aprender:
- [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
  [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
  
   
